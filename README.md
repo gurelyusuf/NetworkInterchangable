@@ -1,2 +1,5 @@
-# NetworkInterchangable
-Application that can switch between web services and local services
+# Used Technologies
+- MVVM 
+- SwiftUI
+- Local Services
+- Web Services
